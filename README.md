@@ -11,7 +11,7 @@ yarn
 react-native run-ios
 ```
 
-Está testado em apenas Ios pois como conversado com o Leonardo, eu só tenho esse dispositivo para testar nesse casso a aplicação está rodando em perfeito estado no Iphone.
+Está testado em apenas Ios pois como conversado com o Leonardo, eu só tenho esse dispositivo para testar, nesse caso a aplicação está rodando em perfeito estado no Iphone.
 
 ### Obs
 
